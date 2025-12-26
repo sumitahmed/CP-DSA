@@ -6,7 +6,7 @@ void binary_search(int *arr, int n, int item)
     int mid, beg =0, end = n-1;
     while(beg<=end){
         mid=(beg+end)/2;
-        if(arr[mid]=item)
+        if(arr[mid]==item)
         {
             std::printf("%d", mid);
             break;
