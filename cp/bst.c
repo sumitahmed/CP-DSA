@@ -1,9 +1,5 @@
-// Write a C program to reverse a linked list
-
-// Given linked list
-// 25 19 14 10 
-// Reversed linked list 
-// 10 14 19 25
+// Write a program to check one binary tree is BST or not
+// Time 20 min
 
 #include<stdio.h>
 #include<stdlib.h>
