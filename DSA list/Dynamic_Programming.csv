@@ -1,0 +1,32 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,DP,Fibonacci Number (Memoization),Easy,Basic,College,https://leetcode.com/problems/fibonacci-number/,Learn Memoization vs Tabulation
+FALSE,DP,Climbing Stairs,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/climbing-stairs/,Pattern: dp[i] = dp[i-1] + dp[i-2]
+FALSE,DP,Min Cost Climbing Stairs,Easy,Basic,NeetCode,https://leetcode.com/problems/min-cost-climbing-stairs/,1D DP Basics
+FALSE,DP,House Robber,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/house-robber/,Non-adjacent sum pattern
+FALSE,DP,House Robber II,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/house-robber-ii/,Circular dependency (Break into 2 linear)
+FALSE,DP,Maximum Product Subarray,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/maximum-product-subarray/,Track Min and Max simultaneously
+FALSE,DP,Longest Increasing Subsequence,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/longest-increasing-subsequence/,O(n^2) DP or O(nlogn) Binary Search
+FALSE,DP,Grid Unique Paths,Medium,Basic,Striver,https://leetcode.com/problems/unique-paths/,2D Grid DP (Sum of top + left)
+FALSE,DP,Unique Paths II,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/unique-paths-ii/,Grid with Obstacles
+FALSE,DP,Minimum Path Sum,Medium,Core,Striver,https://leetcode.com/problems/minimum-path-sum/,Grid Minimization
+FALSE,DP,0/1 Knapsack (Implement),Medium,Basic,College,https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/,Pick or Leave pattern (GFG Link)
+FALSE,DP,Partition Equal Subset Sum,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/partition-equal-subset-sum/,Variation of 0/1 Knapsack
+FALSE,DP,Coin Change (Unbounded Knapsack),Medium,Core,NeetCode + Striver,https://leetcode.com/problems/coin-change/,Min coins to make sum
+FALSE,DP,Coin Change II,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/coin-change-ii/,Count ways to make sum
+FALSE,DP,Target Sum,Medium,Core,NeetCode,https://leetcode.com/problems/target-sum/,Convert to Subset Sum problem
+FALSE,DP,Longest Common Subsequence,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/longest-common-subsequence/,Standard String DP (Diagonal match)
+FALSE,DP,Edit Distance,Medium,Advanced,NeetCode + Striver,https://leetcode.com/problems/edit-distance/,Insert/Delete/Replace operations
+FALSE,DP,Longest Palindromic Substring,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/longest-palindromic-substring/,Expand Center or DP Table
+FALSE,DP,Palindromic Substrings,Medium,Core,NeetCode,https://leetcode.com/problems/palindromic-substrings/,Count all palindromes
+FALSE,DP,Word Break,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/word-break/,Check dictionary segmentation
+FALSE,DP,Decode Ways,Medium,Core,NeetCode,https://leetcode.com/problems/decode-ways/,Handle '0' edge cases
+FALSE,DP,Best Time to Buy and Sell Stock with Cooldown,Medium,Advanced,NeetCode + Striver,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/,State Machine DP
+FALSE,DP,Best Time to Buy and Sell Stock IV,Hard,Advanced,Striver,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/,K transactions logic
+FALSE,DP,Interleaving String,Medium,Advanced,NeetCode,https://leetcode.com/problems/interleaving-string/,2D String matching
+FALSE,DP,Distinct Subsequences,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/distinct-subsequences/,String matching ways
+FALSE,DP,Burst Balloons,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/burst-balloons/,Matrix Chain Multiplication Pattern
+FALSE,DP,Matrix Chain Multiplication,Medium,Advanced,Striver,https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/,Partition DP (GFG Link)
+FALSE,DP,Minimum Cost to Cut a Stick,Hard,Advanced,Striver,https://leetcode.com/problems/minimum-cost-to-cut-a-stick/,Partition DP
+FALSE,DP,Regular Expression Matching,Hard,Advanced,NeetCode,https://leetcode.com/problems/regular-expression-matching/,Complex String DP
+FALSE,DP,Russian Doll Envelopes,Hard,Advanced,NeetCode,https://leetcode.com/problems/russian-doll-envelopes/,2D LIS (Sort + LIS)
+FALSE,DP,Maximal Square,Medium,Core,Striver,https://leetcode.com/problems/maximal-square/,Grid expansion logic

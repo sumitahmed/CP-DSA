@@ -1,0 +1,44 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Arrays,Array Traversal (Read/Print),Easy,Basic,College,https://leetcode.com/problems/build-array-from-permutation/,Iterate loop and access index
+FALSE,Arrays,Insert Element at Index,Easy,Basic,College,https://leetcode.com/problems/duplicate-zeros/,Requires shifting elements right manually
+FALSE,Arrays,Delete Element at Index,Easy,Basic,College,https://leetcode.com/problems/remove-element/,Requires shifting elements left manually
+FALSE,Arrays,Update Element (Replace),Easy,Basic,College,https://leetcode.com/problems/replace-elements-with-greatest-element-on-right-side/,Direct index access
+FALSE,Arrays,Concatenation of Array,Easy,Basic,NeetCode,https://leetcode.com/problems/concatenation-of-array/,
+FALSE,Arrays,Remove Element,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/remove-element/,In-place removal (Two Pointer)
+FALSE,Arrays,Remove Duplicates from Sorted Array,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/remove-duplicates-from-sorted-array/,
+FALSE,Arrays,Remove Duplicates from Sorted Array II,Medium,Core,NeetCode,https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/,
+FALSE,Arrays,Move Zeroes,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/move-zeroes/,Shift logic
+FALSE,Arrays,Two Sum,Easy,Core,NeetCode + Striver,https://leetcode.com/problems/two-sum/,HashMap for O(n)
+FALSE,Arrays,Two Sum II - Input Array Sorted,Medium,Core,NeetCode,https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/,Two Pointer
+FALSE,Arrays,Best Time to Buy and Sell Stock,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/best-time-to-buy-and-sell-stock/,One pass tracking min price
+FALSE,Arrays,Best Time to Buy and Sell Stock II,Medium,Core,NeetCode,https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/,Accumulate positive slopes
+FALSE,Arrays,Majority Element,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/majority-element/,Moore's Voting Algo
+FALSE,Arrays,Majority Element II,Medium,Core,Striver,https://leetcode.com/problems/majority-element-ii/,Find elements appearing > n/3 times
+FALSE,Arrays,Pascals Triangle,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/pascals-triangle/,
+FALSE,Arrays,Missing Number,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/missing-number/,Sum or XOR trick
+FALSE,Arrays,Intersection of Two Arrays,Easy,Basic,NeetCode,https://leetcode.com/problems/intersection-of-two-arrays/,
+FALSE,Arrays,Contains Duplicate,Easy,Basic,NeetCode,https://leetcode.com/problems/contains-duplicate/,HashSet usage
+FALSE,Arrays,Is Subsequence,Easy,Basic,NeetCode,https://leetcode.com/problems/is-subsequence/,
+FALSE,Arrays,3Sum,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/3sum/,Sort + Two Pointer
+FALSE,Arrays,4Sum,Medium,Core,Striver,https://leetcode.com/problems/4sum/,Generalized k-sum
+FALSE,Arrays,Product of Array Except Self,Medium,Core,NeetCode,https://leetcode.com/problems/product-of-array-except-self/,Prefix and Suffix products
+FALSE,Arrays,Maximum Subarray,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/maximum-subarray/,Kadane's Algorithm
+FALSE,Arrays,Maximum Product Subarray,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/maximum-product-subarray/,Kadane's variation
+FALSE,Arrays,Longest Consecutive Sequence,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/longest-consecutive-sequence/,HashSet lookups
+FALSE,Arrays,Container With Most Water,Medium,Core,NeetCode,https://leetcode.com/problems/container-with-most-water/,Greedy Two Pointer
+FALSE,Arrays,Rotate Array,Medium,Core,NeetCode,https://leetcode.com/problems/rotate-array/,Reverse method trick
+FALSE,Arrays,Set Matrix Zeroes,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/set-matrix-zeroes/,2D Array mapping
+FALSE,Arrays,Spiral Matrix,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/spiral-matrix/,Simulation
+FALSE,Arrays,Rotate Image,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/rotate-image/,Transpose + Reverse
+FALSE,Arrays,Next Permutation,Medium,Advanced,Striver,https://leetcode.com/problems/next-permutation/,Lexicographical order logic
+FALSE,Arrays,Subarray Sum Equals K,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/subarray-sum-equals-k/,Prefix Sum + HashMap
+FALSE,Arrays,Sort Colors,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/sort-colors/,Dutch National Flag Algo
+FALSE,Arrays,Find the Duplicate Number,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/find-the-duplicate-number/,Cycle Detection (Tortoise Hare)
+FALSE,Arrays,Merge Intervals,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/merge-intervals/,Sorting + Merging
+FALSE,Arrays,Insert Interval,Medium,Core,NeetCode,https://leetcode.com/problems/insert-interval/,
+FALSE,Arrays,Non-overlapping Intervals,Medium,Core,NeetCode,https://leetcode.com/problems/non-overlapping-intervals/,Greedy sorting by end time
+FALSE,Arrays,Trapping Rain Water,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/trapping-rain-water/,Pre-max arrays or Two Pointer
+FALSE,Arrays,Longest Subarray with 0 Sum,Medium,Core,Striver,https://www.geeksforgeeks.org/find-the-largest-subarray-with-0-sum/,Prefix Sum + HashMap (GFG)
+FALSE,Arrays,Subarray with Given XOR,Medium,Core,Striver,https://www.interviewbit.com/problems/subarray-with-given-xor/,XOR Property (InterviewBit)
+FALSE,Arrays,Count Inversions,Hard,Advanced,Striver,https://www.geeksforgeeks.org/inversion-count-in-array-using-merge-sort/,Merge Sort Modification (GFG)
+FALSE,Arrays,Reverse Pairs,Hard,Advanced,Striver,https://leetcode.com/problems/reverse-pairs/,Merge Sort Modification

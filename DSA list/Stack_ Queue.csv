@@ -1,0 +1,31 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Stack,Implement Stack using Array,Easy,Basic,College,https://www.geeksforgeeks.org/implementation-stack-javascript/,Push Pop Peek with Overflow check (GFG)
+FALSE,Stack,Implement Stack using Linked List,Easy,Basic,College,https://www.geeksforgeeks.org/implement-a-stack-using-singly-linked-list/,Dynamic growth (GFG)
+FALSE,Stack,Tower of Hanoi,Medium,Basic,College,https://www.geeksforgeeks.org/c-program-for-tower-of-hanoi/,Recursion vs Explicit Stack (GFG)
+FALSE,Stack,Infix to Postfix Conversion,Medium,Basic,College,https://www.geeksforgeeks.org/stack-set-2-infix-to-postfix/,Shunting Yard Algorithm (GFG)
+FALSE,Stack,Evaluation of Postfix Expression,Easy,Basic,College,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Stack calculation logic
+FALSE,Stack,Valid Parentheses,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/valid-parentheses/,Check balanced brackets
+FALSE,Stack,Min Stack,Medium,Basic,NeetCode + Striver,https://leetcode.com/problems/min-stack/,Design problem with O(1) min retrieval
+FALSE,Stack,Implement Queue using Stacks,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/implement-queue-using-stacks/,Two stacks method
+FALSE,Stack,Implement Stack using Queues,Easy,Basic,Striver,https://leetcode.com/problems/implement-stack-using-queues/,Single or Double queue method
+FALSE,Stack,Daily Temperatures,Medium,Core,NeetCode,https://leetcode.com/problems/daily-temperatures/,Monotonic Stack Intro
+FALSE,Stack,Next Greater Element I,Easy,Core,Striver,https://leetcode.com/problems/next-greater-element-i/,Monotonic Stack (Right)
+FALSE,Stack,Next Greater Element II,Medium,Core,Striver,https://leetcode.com/problems/next-greater-element-ii/,Circular Array handling
+FALSE,Stack,Nearest Smaller Element,Easy,Core,Striver,https://www.interviewbit.com/problems/nearest-smaller-element/,Monotonic Stack (Left) - Link Proxy
+FALSE,Stack,Evaluate Reverse Polish Notation,Medium,Core,NeetCode,https://leetcode.com/problems/evaluate-reverse-polish-notation/,Postfix Math
+FALSE,Stack,Generate Parentheses,Medium,Core,NeetCode,https://leetcode.com/problems/generate-parentheses/,Backtracking + Stack Concept
+FALSE,Stack,Asteroid Collision,Medium,Core,NeetCode,https://leetcode.com/problems/asteroid-collision/,Collision logic
+FALSE,Stack,Car Fleet,Medium,Core,NeetCode,https://leetcode.com/problems/car-fleet/,Sorting + Monotonic Stack
+FALSE,Stack,Online Stock Span,Medium,Core,Striver,https://leetcode.com/problems/online-stock-span/,Monotonic Stack stream
+FALSE,Stack,Largest Rectangle in Histogram,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/largest-rectangle-in-histogram/,Max Area logic
+FALSE,Stack,Maximal Rectangle,Hard,Advanced,Striver,https://leetcode.com/problems/maximal-rectangle/,Histogram logic on 2D Matrix
+FALSE,Stack,Trapping Rain Water,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/trapping-rain-water/,Stack or Two Pointer
+FALSE,Stack,The Celebrity Problem,Medium,Advanced,Striver,https://leetcode.com/problems/find-the-celebrity/,Elimination method (Premium or GFG)
+FALSE,Queue,Implement Queue using Array,Easy,Basic,College,https://www.geeksforgeeks.org/array-implementation-of-queue-simple/,Enqueue Dequeue with Front/Rear (GFG)
+FALSE,Queue,Implement Queue using Linked List,Easy,Basic,College,https://www.geeksforgeeks.org/queue-linked-list-implementation/,Handle Empty case (GFG)
+FALSE,Queue,Design Circular Queue,Medium,Basic,College,https://leetcode.com/problems/design-circular-queue/,Modulo arithmetic for wrapping
+FALSE,Queue,Design Circular Deque,Medium,Basic,College,https://leetcode.com/problems/design-circular-deque/,Double Ended Queue implementation
+FALSE,Queue,Sliding Window Maximum,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/sliding-window-maximum/,Monotonic Deque
+FALSE,Queue,Rotting Oranges,Medium,Core,Striver,https://leetcode.com/problems/rotting-oranges/,BFS Application
+FALSE,Queue,01 Matrix,Medium,Core,Striver,https://leetcode.com/problems/01-matrix/,BFS Multi-source
+FALSE,Queue,Design Browser History,Medium,Core,NeetCode,https://leetcode.com/problems/design-browser-history/,Two Stacks or Doubly LL

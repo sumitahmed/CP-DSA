@@ -1,0 +1,28 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Maths,Count Digits / Extract Digits,Easy,Basic,College,https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/,Base logic for all number problems
+FALSE,Maths,Reverse Integer,Medium,Basic,College,https://leetcode.com/problems/reverse-integer/,Handle overflow checks
+FALSE,Maths,Palindrome Number,Easy,Basic,College,https://leetcode.com/problems/palindrome-number/,Check without converting to string
+FALSE,Maths,GCD / HCF (Euclidean Algo),Easy,Basic,College,https://leetcode.com/problems/find-greatest-common-divisor-of-array/,Implement GCD(a b) helper
+FALSE,Maths,LCM (Formula),Easy,Basic,College,https://leetcode.com/problems/find-greatest-common-divisor-of-array/,Implement LCM = (a*b)/GCD
+FALSE,Maths,Check Prime (Basic),Medium,Basic,College,https://leetcode.com/problems/count-primes/,Implement basic O(sqrt(n)) check
+FALSE,Maths,Sieve of Eratosthenes,Medium,Basic,College,https://leetcode.com/problems/count-primes/,Generate primes up to N
+FALSE,Maths,Armstrong Number,Easy,Basic,College,https://leetcode.com/problems/armstrong-number/,Sum of digits^k (Link is proxy)
+FALSE,Maths,Strong / Krishnamurthy Number,Easy,Basic,College,https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/,Sum of factorials of digits
+FALSE,Maths,Automorphic Number,Easy,Basic,College,https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/,Square ends with same digits
+FALSE,Maths,Neon Number,Easy,Basic,College,https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/,Sum of square's digits = number
+FALSE,Maths,Spy Number,Easy,Basic,College,https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/,Sum of digits = Product of digits
+FALSE,Maths,Factors of a Number,Easy,Basic,College,https://leetcode.com/problems/the-kth-factor-of-n/,Iterate up to sqrt(n)
+FALSE,Maths,Plus One,Easy,Basic,NeetCode,https://leetcode.com/problems/plus-one/,
+FALSE,Maths,Happy Number,Easy,Basic,NeetCode,https://leetcode.com/problems/happy-number/,Cycle detection in math
+FALSE,Maths,Ugly Number,Easy,Basic,NeetCode,https://leetcode.com/problems/ugly-number/,
+FALSE,Maths,Missing Number,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/missing-number/,XOR or Sum formula
+FALSE,Maths,Roman to Integer,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/roman-to-integer/,
+FALSE,Maths,Excel Sheet Column Title,Easy,Basic,NeetCode,https://leetcode.com/problems/excel-sheet-column-title/,
+FALSE,Maths,Pow(x n),Medium,Core,NeetCode + Striver,https://leetcode.com/problems/powx-n/,Binary Exponentiation (Modular Arith)
+FALSE,Maths,Multiply Strings,Medium,Core,NeetCode,https://leetcode.com/problems/multiply-strings/,Big Integer simulation
+FALSE,Maths,Spiral Matrix,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/spiral-matrix/,
+FALSE,Maths,Rotate Image,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/rotate-image/,Matrix manipulation
+FALSE,Maths,Set Matrix Zeroes,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/set-matrix-zeroes/,
+FALSE,Maths,Grid Unique Paths,Medium,Core,Striver,https://leetcode.com/problems/unique-paths/,Combinatorics (nCr) or DP
+FALSE,Maths,Permutation Sequence,Hard,Advanced,Striver,https://leetcode.com/problems/permutation-sequence/,Find Kth permutation logic
+FALSE,Maths,Max Points on a Line,Hard,Advanced,NeetCode,https://leetcode.com/problems/max-points-on-a-line/,Geometry / Slope logic

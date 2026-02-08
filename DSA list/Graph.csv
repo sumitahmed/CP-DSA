@@ -1,0 +1,33 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Graphs,Graph Representation (Adj List),Easy,Basic,College,https://www.geeksforgeeks.org/graph-and-its-representations/,Learn vector<vector<int>> (GFG)
+FALSE,Graphs,BFS Traversal (Implement),Easy,Basic,College,https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/,Queue implementation (GFG)
+FALSE,Graphs,DFS Traversal (Implement),Easy,Basic,College,https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/,Recursive stack implementation (GFG)
+FALSE,Graphs,Connected Components (Logic),Medium,Basic,College,https://leetcode.com/problems/number-of-provinces/,Count independent subgraphs
+FALSE,Graphs,Find the Town Judge,Easy,Basic,Striver,https://leetcode.com/problems/find-the-town-judge/,Degree Counting (In/Out)
+FALSE,Graphs,Flood Fill,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/flood-fill/,Implicit Graph DFS/BFS
+FALSE,Graphs,Number of Islands,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/number-of-islands/,Grid Connected Components
+FALSE,Graphs,Max Area of Island,Medium,Core,NeetCode,https://leetcode.com/problems/max-area-of-island/,DFS Area calculation
+FALSE,Graphs,Clone Graph,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/clone-graph/,Deep Copy (Hash Map + DFS)
+FALSE,Graphs,Rotting Oranges,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/rotting-oranges/,Multi-source BFS
+FALSE,Graphs,Pacific Atlantic Water Flow,Medium,Core,NeetCode,https://leetcode.com/problems/pacific-atlantic-water-flow/,DFS from borders
+FALSE,Graphs,Surrounded Regions,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/surrounded-regions/,Reverse logic (Save borders)
+FALSE,Graphs,01 Matrix,Medium,Core,Striver,https://leetcode.com/problems/01-matrix/,Multi-source BFS (Distance)
+FALSE,Graphs,Course Schedule,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/course-schedule/,Cycle Detection (Directed)
+FALSE,Graphs,Course Schedule II,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/course-schedule-ii/,Topological Sort (Kahn's Algo)
+FALSE,Graphs,Graph Valid Tree,Medium,Core,NeetCode,https://leetcode.com/problems/graph-valid-tree/,Tree = No Cycle + Connected (Premium/GFG)
+FALSE,Graphs,Redundant Connection,Medium,Core,NeetCode,https://leetcode.com/problems/redundant-connection/,Union-Find (Disjoint Set)
+FALSE,Graphs,Number of Connected Components,Medium,Core,NeetCode,https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/,Union-Find or DFS (Premium/GFG)
+FALSE,Graphs,Word Ladder,Hard,Core,NeetCode + Striver,https://leetcode.com/problems/word-ladder/,BFS Shortest Path (Unweighted)
+FALSE,Graphs,Is Graph Bipartite?,Medium,Core,Striver,https://leetcode.com/problems/is-graph-bipartite/,Coloring Algorithm (0/1)
+FALSE,Graphs,Network Delay Time,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/network-delay-time/,Dijkstra's Algorithm (Weighted)
+FALSE,Graphs,Cheapest Flights Within K Stops,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/cheapest-flights-within-k-stops/,Bellman-Ford or Modified Dijkstra
+FALSE,Graphs,Min Cost to Connect All Points,Medium,Advanced,NeetCode + Striver,https://leetcode.com/problems/min-cost-to-connect-all-points/,Prim's or Kruskal's (MST)
+FALSE,Graphs,Swim in Rising Water,Hard,Advanced,NeetCode,https://leetcode.com/problems/swim-in-rising-water/,Dijkstra or Binary Search on Answer
+FALSE,Graphs,Alien Dictionary,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/alien-dictionary/,Topological Sort (Char dependency)
+FALSE,Graphs,Reconstruct Itinerary,Hard,Advanced,NeetCode,https://leetcode.com/problems/reconstruct-itinerary/,Eulerian Path (Hierholzer's)
+FALSE,Graphs,Longest Increasing Path in a Matrix,Hard,Advanced,NeetCode,https://leetcode.com/problems/longest-increasing-path-in-a-matrix/,DFS + Memoization
+FALSE,Graphs,Path with Minimum Effort,Medium,Advanced,Striver,https://leetcode.com/problems/path-with-minimum-effort/,Dijkstra on Grid
+FALSE,Graphs,Number of Ways to Arrive at Destination,Medium,Advanced,Striver,https://leetcode.com/problems/number-of-ways-to-arrive-at-destination/,Dijkstra with Count
+FALSE,Graphs,Critical Connections in a Network,Hard,Advanced,Striver,https://leetcode.com/problems/critical-connections-in-a-network/,Tarjan's Algo (Bridges)
+FALSE,Graphs,Account Merge,Medium,Core,Striver,https://leetcode.com/problems/accounts-merge/,Union-Find application
+FALSE,Graphs,Most Stones Removed with Same Row or Column,Medium,Core,Striver,https://leetcode.com/problems/most-stones-removed-with-same-row-or-column/,Union-Find connected components

@@ -1,0 +1,32 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Strings,Calculate String Length (Manual),Easy,Basic,College,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Iterate until null or end
+FALSE,Strings,Reverse String (XOR Swap),Easy,Basic,College,https://leetcode.com/problems/reverse-string/,Use: a^=b; b^=a; a^=b logic
+FALSE,Strings,Character Frequency Count,Easy,Basic,College,https://leetcode.com/problems/first-unique-character-in-a-string/,Use int arr[26] or HashMap
+FALSE,Strings,Replace Character (e.g. Spaces),Easy,Basic,College,https://leetcode.com/problems/defanging-an-ip-address/,Iterate and replace char
+FALSE,Strings,String Comparison (strcmp),Easy,Basic,College,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Compare char by char manually
+FALSE,Strings,Reverse String,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/reverse-string/,Standard Two Pointer
+FALSE,Strings,Valid Palindrome,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/valid-palindrome/,Filter non-alphanumeric first
+FALSE,Strings,Valid Anagram,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/valid-anagram/,Frequency Array or Sorting
+FALSE,Strings,Longest Common Prefix,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/longest-common-prefix/,Sort and compare first vs last
+FALSE,Strings,Isomorphic Strings,Easy,Basic,Striver,https://leetcode.com/problems/isomorphic-strings/,Two HashMaps mapping
+FALSE,Strings,Rotate String,Easy,Basic,Striver,https://leetcode.com/problems/rotate-string/,Check if B in A+A
+FALSE,Strings,Largest Odd Number in String,Easy,Basic,Striver,https://leetcode.com/problems/largest-odd-number-in-string/,
+FALSE,Strings,Remove Outermost Parentheses,Easy,Basic,Striver,https://leetcode.com/problems/remove-outermost-parentheses/,Primitive decomposition
+FALSE,Strings,Group Anagrams,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/group-anagrams/,Hash key = sorted string
+FALSE,Strings,Sort Characters By Frequency,Medium,Core,Striver,https://leetcode.com/problems/sort-characters-by-frequency/,HashMap + Heap or Bucket Sort
+FALSE,Strings,Reverse Words in a String,Medium,Core,Striver,https://leetcode.com/problems/reverse-words-in-a-string/,Trim + Split + Reverse
+FALSE,Strings,String to Integer (atoi),Medium,Core,Striver,https://leetcode.com/problems/string-to-integer-atoi/,Handle overflows and signs
+FALSE,Strings,Longest Substring Without Repeating Characters,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/longest-substring-without-repeating-characters/,Sliding Window + Set/Map
+FALSE,Strings,Longest Repeating Character Replacement,Medium,Core,NeetCode,https://leetcode.com/problems/longest-repeating-character-replacement/,Sliding Window + MaxFreq
+FALSE,Strings,Permutation in String,Medium,Core,NeetCode,https://leetcode.com/problems/permutation-in-string/,Sliding Window + Fixed Array
+FALSE,Strings,Find All Anagrams in a String,Medium,Core,NeetCode,https://leetcode.com/problems/find-all-anagrams-in-a-string/,Sliding Window pattern
+FALSE,Strings,Count Palindromic Substrings,Medium,Core,NeetCode,https://leetcode.com/problems/palindromic-substrings/,Expand from center
+FALSE,Strings,Longest Palindromic Substring,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/longest-palindromic-substring/,Expand from center
+FALSE,Strings,Encode and Decode Strings,Medium,Core,NeetCode,https://leetcode.com/problems/encode-and-decode-strings/,Chunked storage logic
+FALSE,Strings,Sum of Beauty of All Substrings,Medium,Core,Striver,https://leetcode.com/problems/sum-of-beauty-of-all-substrings/,Nested loops + Freq array
+FALSE,Strings,Minimum Window Substring,Hard,Advanced,NeetCode,https://leetcode.com/problems/minimum-window-substring/,Sliding Window optimized
+FALSE,Strings,Implement strStr() (Needle Haystack),Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/,Basic pattern matching
+FALSE,Strings,Repeated String Match (Rabin-Karp),Medium,Advanced,Striver,https://leetcode.com/problems/repeated-string-match/,Rolling Hash concept
+FALSE,Strings,Shortest Palindrome (KMP),Hard,Advanced,Striver,https://leetcode.com/problems/shortest-palindrome/,KMP Lookup Table logic
+FALSE,Strings,Longest Prefix Suffix (Z-Function),Hard,Advanced,Striver,https://leetcode.com/problems/longest-prefix-suffix/,KMP/Z-Algo logic (GFG Proxy)
+FALSE,Strings,Text Justification,Hard,Advanced,NeetCode,https://leetcode.com/problems/text-justification/,Simulation heavy

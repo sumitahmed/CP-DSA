@@ -1,0 +1,19 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Heaps,Implement Min Heap (Insert/Delete),Medium,Basic,College,https://www.geeksforgeeks.org/binary-heap/,Manual Up/Down Heapify logic (GFG)
+FALSE,Heaps,Implement Max Heap (Insert/Delete),Medium,Basic,College,https://www.geeksforgeeks.org/binary-heap/,Manual Up/Down Heapify logic (GFG)
+FALSE,Heaps,Heap Sort (Implement),Medium,Basic,College,https://leetcode.com/problems/sort-an-array/,Build Max Heap + Swap Last (In-place O(1) space)
+FALSE,Heaps,Kth Largest Element in an Array,Medium,Basic,NeetCode + Striver,https://leetcode.com/problems/kth-largest-element-in-an-array/,Use Min Heap of size K
+FALSE,Heaps,Kth Smallest Element in an Array,Medium,Basic,College,https://www.geeksforgeeks.org/kth-smallest-largest-element-in-unsorted-array/,Use Max Heap of size K (GFG Proxy)
+FALSE,Heaps,Last Stone Weight,Easy,Basic,NeetCode,https://leetcode.com/problems/last-stone-weight/,Max Heap simulation
+FALSE,Heaps,Kth Largest Element in a Stream,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/kth-largest-element-in-a-stream/,Min Heap of size K (Keep largest K seen)
+FALSE,Heaps,Top K Frequent Elements,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/top-k-frequent-elements/,Min Heap (Frequency) or Bucket Sort
+FALSE,Heaps,K Closest Points to Origin,Medium,Core,NeetCode,https://leetcode.com/problems/k-closest-points-to-origin/,Max Heap of size K (Distances)
+FALSE,Heaps,Task Scheduler,Medium,Core,NeetCode,https://leetcode.com/problems/task-scheduler/,Max Heap + Queue (Cooling time)
+FALSE,Heaps,Design Twitter,Medium,Core,NeetCode,https://leetcode.com/problems/design-twitter/,Merge K Sorted Lists logic (News Feed)
+FALSE,Heaps,Find Median from Data Stream,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/find-median-from-data-stream/,Two Heaps (Min + Max) Pattern
+FALSE,Heaps,Merge k Sorted Lists,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/merge-k-sorted-lists/,Min Heap (k pointers)
+FALSE,Heaps,Maximum Sum Combinations,Medium,Core,Striver,https://www.interviewbit.com/problems/maximum-sum-combinations/,Sorting + Max Heap (InterviewBit)
+FALSE,Heaps,Median of Data Stream,Hard,Advanced,Striver,https://leetcode.com/problems/find-median-from-data-stream/,Standard Two Heaps
+FALSE,Heaps,Kth Largest Element in a Stream,Easy,Basic,Striver,https://leetcode.com/problems/kth-largest-element-in-a-stream/,
+FALSE,Heaps,Maximum Performance of a Team,Hard,Advanced,NeetCode,https://leetcode.com/problems/maximum-performance-of-a-team/,Min Heap + Greedy Sort
+FALSE,Heaps,IPO,Hard,Advanced,NeetCode,https://leetcode.com/problems/ipo/,Two Heaps (Capital vs Profit)

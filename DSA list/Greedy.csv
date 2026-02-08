@@ -1,0 +1,21 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Greedy,Activity Selection (N Meetings),Easy,Basic,College,https://www.geeksforgeeks.org/activity-selection-problem-greedy-algo-1/,Sort by End Time (Classic)
+FALSE,Greedy,Fractional Knapsack,Medium,Basic,College,https://www.geeksforgeeks.org/fractional-knapsack-problem/,Sort by Value/Weight Ratio
+FALSE,Greedy,Job Sequencing Problem,Medium,Basic,College,https://www.geeksforgeeks.org/job-sequencing-problem/,Sort by Profit + Deadline slots
+FALSE,Greedy,Minimum Number of Coins,Medium,Basic,College,https://www.geeksforgeeks.org/find-minimum-number-of-coins-that-make-a-change/,Greedy approach for standard denominations
+FALSE,Greedy,Assign Cookies,Easy,Basic,Striver,https://leetcode.com/problems/assign-cookies/,Greedy with Sorting
+FALSE,Greedy,Lemonade Change,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/lemonade-change/,Simulation
+FALSE,Greedy,Maximum Subarray (Kadane's),Medium,Core,NeetCode + Striver,https://leetcode.com/problems/maximum-subarray/,Local Max vs Global Max
+FALSE,Greedy,Jump Game,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/jump-game/,Track max reachable index
+FALSE,Greedy,Jump Game II,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/jump-game-ii/,BFS-like Greedy levels
+FALSE,Greedy,Gas Station,Medium,Core,NeetCode,https://leetcode.com/problems/gas-station/,Total sum must be >= 0
+FALSE,Greedy,Hand of Straights,Medium,Core,NeetCode,https://leetcode.com/problems/hand-of-straights/,Card grouping (Map/Heap)
+FALSE,Greedy,Merge Triplets to Form Target,Medium,Core,NeetCode,https://leetcode.com/problems/merge-triplets-to-form-target-triplet/,Filter invalid triplets
+FALSE,Greedy,Partition Labels,Medium,Core,NeetCode,https://leetcode.com/problems/partition-labels/,Track last occurrence of char
+FALSE,Greedy,Valid Parenthesis String,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/valid-parenthesis-string/,Track min/max open brackets
+FALSE,Greedy,Candy,Hard,Advanced,Striver,https://leetcode.com/problems/candy/,Two pass (Left-Right & Right-Left)
+FALSE,Greedy,Minimum Platforms,Medium,Core,Striver,https://www.geeksforgeeks.org/minimum-number-platforms-required-railwaybus-station/,Sort arrival & departure separately
+FALSE,Greedy,Non-overlapping Intervals,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/non-overlapping-intervals/,Interval Scheduling (Remove min)
+FALSE,Greedy,Insert Interval,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/insert-interval/,Interval Merging
+FALSE,Greedy,Merge Intervals,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/merge-intervals/,Sort by start time
+FALSE,Greedy,Shortest Job First (SJF),Medium,Basic,Striver,https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/,Waiting time calculation (OS Concept)

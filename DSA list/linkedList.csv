@@ -1,0 +1,36 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Linked List,Create Node & Display (Traversal),Easy,Basic,College,https://leetcode.com/problems/design-linked-list/,Print all data elements
+FALSE,Linked List,Insert at Beginning (Head),Easy,Basic,College,https://leetcode.com/problems/design-linked-list/,Update head pointer logic
+FALSE,Linked List,Insert at End (Tail),Easy,Basic,College,https://leetcode.com/problems/design-linked-list/,Traverse to null and link
+FALSE,Linked List,Insert After Specific Node,Easy,Basic,College,https://leetcode.com/problems/design-linked-list/,Link new node to next of prev
+FALSE,Linked List,Insert Before Specific Node,Easy,Basic,College,https://leetcode.com/problems/design-linked-list/,Keep track of prev pointer
+FALSE,Linked List,Delete First Node,Easy,Basic,College,https://leetcode.com/problems/design-linked-list/,Move head to head->next
+FALSE,Linked List,Delete Last Node,Easy,Basic,College,https://leetcode.com/problems/design-linked-list/,Stop at second last node
+FALSE,Linked List,Delete Specific Node (by Value),Easy,Basic,College,https://leetcode.com/problems/design-linked-list/,Search and unlink node
+FALSE,Linked List,Doubly Linked List (Implementation),Medium,Basic,College,https://leetcode.com/problems/design-linked-list/,Handle prev and next pointers
+FALSE,Linked List,Reverse DLL (Manual),Medium,Basic,College,https://www.geeksforgeeks.org/reverse-a-doubly-linked-list/,Swap next and prev for all (GFG Link)
+FALSE,Linked List,Reverse Linked List,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/reverse-linked-list/,Iterative and Recursive methods
+FALSE,Linked List,Middle of the Linked List,Easy,Basic,Striver,https://leetcode.com/problems/middle-of-the-linked-list/,Tortoise and Hare algorithm
+FALSE,Linked List,Merge Two Sorted Lists,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/merge-two-sorted-lists/,Pointer manipulation
+FALSE,Linked List,Delete Node in a Linked List,Easy,Basic,Striver,https://leetcode.com/problems/delete-node-in-a-linked-list/,Copy value from next node
+FALSE,Linked List,Remove Duplicates from Sorted List,Easy,Basic,NeetCode,https://leetcode.com/problems/remove-duplicates-from-sorted-list/,Skip next if values equal
+FALSE,Linked List,Linked List Cycle,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/linked-list-cycle/,Floyd's Cycle Detection
+FALSE,Linked List,Intersection of Two Linked Lists,Easy,Basic,Striver,https://leetcode.com/problems/intersection-of-two-linked-lists/,Align lengths or pointer swap
+FALSE,Linked List,Palindrome Linked List,Easy,Basic,Striver,https://leetcode.com/problems/palindrome-linked-list/,Find mid + reverse second half
+FALSE,Linked List,Linked List Cycle II,Medium,Core,Striver,https://leetcode.com/problems/linked-list-cycle-ii/,Find starting node of cycle
+FALSE,Linked List,Remove Nth Node From End of List,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/remove-nth-node-from-end-of-list/,Two pointers with gap N
+FALSE,Linked List,Add Two Numbers,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/add-two-numbers/,Math simulation on lists
+FALSE,Linked List,Add Two Numbers II,Medium,Core,Striver,https://leetcode.com/problems/add-two-numbers-ii/,Stack or Reverse first
+FALSE,Linked List,Copy List with Random Pointer,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/copy-list-with-random-pointer/,Deep Copy with HashMap or Weaving
+FALSE,Linked List,Reorder List,Medium,Core,NeetCode,https://leetcode.com/problems/reorder-list/,Find Mid + Reverse + Merge
+FALSE,Linked List,Find the Duplicate Number,Medium,Core,NeetCode,https://leetcode.com/problems/find-the-duplicate-number/,Treat as Cycle Detection
+FALSE,Linked List,Swap Nodes in Pairs,Medium,Core,NeetCode,https://leetcode.com/problems/swap-nodes-in-pairs/,Recursive or Iterative swap
+FALSE,Linked List,Sort List,Medium,Core,NeetCode,https://leetcode.com/problems/sort-list/,Merge Sort on LL
+FALSE,Linked List,Rotate List,Medium,Core,Striver,https://leetcode.com/problems/rotate-list/,Make circular and cut
+FALSE,Linked List,Partition List,Medium,Core,NeetCode,https://leetcode.com/problems/partition-list/,Two dummy heads approach
+FALSE,Linked List,LRU Cache,Medium,Advanced,NeetCode + Striver,https://leetcode.com/problems/lru-cache/,Doubly LL + HashMap
+FALSE,Linked List,Merge k Sorted Lists,Hard,Advanced,NeetCode,https://leetcode.com/problems/merge-k-sorted-lists/,Min-Heap or Divide & Conquer
+FALSE,Linked List,Reverse Nodes in k-Group,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/reverse-nodes-in-k-group/,Complex pointer manipulation
+FALSE,Linked List,Flattening a Linked List,Medium,Advanced,Striver,https://www.geeksforgeeks.org/flattening-a-linked-list/,Merge method recursion (GFG Link)
+FALSE,Linked List,Reverse Nodes in k-Group,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/reverse-nodes-in-k-group/,Already in list but double check import
+FALSE,Linked List,Design Browser History,Medium,Core,NeetCode,https://leetcode.com/problems/design-browser-history/,Doubly Linked List application

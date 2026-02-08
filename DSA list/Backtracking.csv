@@ -1,0 +1,16 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Backtracking,Subsets,Medium,Basic,NeetCode + Striver,https://leetcode.com/problems/subsets/,Pick vs No-Pick Pattern
+FALSE,Backtracking,Subsets II,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/subsets-ii/,Handle duplicates with sorting
+FALSE,Backtracking,Subset Sums,Easy,Core,Striver,https://www.geeksforgeeks.org/subset-sums/,Sum of all subsets (GFG Link)
+FALSE,Backtracking,Permutations,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/permutations/,Backtracking with swap or visited array
+FALSE,Backtracking,Permutations II,Medium,Core,Striver,https://leetcode.com/problems/permutations-ii/,Handle duplicates in ordering
+FALSE,Backtracking,Combination Sum,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/combination-sum/,Unlimited reuse of elements
+FALSE,Backtracking,Combination Sum II,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/combination-sum-ii/,Use each element once
+FALSE,Backtracking,Combination Sum III,Medium,Core,NeetCode,https://leetcode.com/problems/combination-sum-iii/,Fixed k numbers summing to n
+FALSE,Backtracking,Letter Combinations of a Phone Number,Medium,Core,NeetCode,https://leetcode.com/problems/letter-combinations-of-a-phone-number/,BFS or DFS approach
+FALSE,Backtracking,Palindrome Partitioning,Medium,Core,NeetCode + Striver,https://leetcode.com/problems/palindrome-partitioning/,Partition string logic
+FALSE,Backtracking,Word Search,Medium,Core,NeetCode,https://leetcode.com/problems/word-search/,DFS on grid
+FALSE,Backtracking,N-Queens,Hard,Advanced,NeetCode + Striver,https://leetcode.com/problems/n-queens/,Classic backtracking board
+FALSE,Backtracking,Sudoku Solver,Hard,Advanced,Striver,https://leetcode.com/problems/sudoku-solver/,Constraint propagation
+FALSE,Backtracking,Rat in a Maze,Medium,Advanced,Striver,https://www.geeksforgeeks.org/rat-in-a-maze-problem-when-movement-allowed-in-all-4-directions/,Pathfinding (GFG Link)
+FALSE,Backtracking,M-Coloring Problem,Medium,Advanced,Striver,https://www.geeksforgeeks.org/m-coloring-problem-backtracking-5/,Graph coloring (GFG Link)

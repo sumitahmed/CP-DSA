@@ -1,0 +1,14 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Bit Manipulation,Single Number,Easy,Basic,NeetCode + Striver,[https://leetcode.com/problems/single-number/,The](https://leetcode.com/problems/single-number/,The) classic XOR trick (x ^ x = 0)
+FALSE,Bit Manipulation,Number of 1 Bits,Easy,Basic,NeetCode + Striver,[https://leetcode.com/problems/number-of-1-bits/,Brian](https://leetcode.com/problems/number-of-1-bits/,Brian) Kernighan’s algo: n & (n-1)
+FALSE,Bit Manipulation,Counting Bits,Easy,Core,NeetCode + Striver,[https://leetcode.com/problems/counting-bits/,DP](https://leetcode.com/problems/counting-bits/,DP) + Bit: dp[i] = dp[i >> 1] + (i & 1)
+FALSE,Bit Manipulation,Reverse Bits,Easy,Basic,NeetCode + Striver,[https://leetcode.com/problems/reverse-bits/,Standard](https://leetcode.com/problems/reverse-bits/,Standard) shifting and masking
+FALSE,Bit Manipulation,Missing Number,Easy,Basic,NeetCode + Striver,[https://leetcode.com/problems/missing-number/,XOR](https://leetcode.com/problems/missing-number/,XOR) all indices vs values
+FALSE,Bit Manipulation,Sum of Two Integers,Medium,Core,NeetCode,[https://leetcode.com/problems/sum-of-two-integers/,Add](https://leetcode.com/problems/sum-of-two-integers/,Add) without plus sign (XOR for sum AND for carry)
+FALSE,Bit Manipulation,Power of Two,Easy,Basic,Striver,[https://leetcode.com/problems/power-of-two/,Check](https://leetcode.com/problems/power-of-two/,Check) if n > 0 AND (n & n-1) == 0
+FALSE,Bit Manipulation,Single Number II,Medium,Advanced,NeetCode,[https://leetcode.com/problems/single-number-ii/,Items](https://leetcode.com/problems/single-number-ii/,Items) appear 3 times (Circuit logic)
+FALSE,Bit Manipulation,Single Number III,Medium,Advanced,NeetCode,[https://leetcode.com/problems/single-number-iii/,Find](https://leetcode.com/problems/single-number-iii/,Find) two unique numbers (Group by rightmost set bit)
+FALSE,Bit Manipulation,Minimum Flips to Make a OR b Equal to c,Medium,Core,NeetCode,[https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/,Check](https://leetcode.com/problems/minimum-flips-to-make-a-or-b-equal-to-c/,Check) bits one by one using shift
+FALSE,Bit Manipulation,Subsets,Medium,Core,NeetCode + Striver,[https://leetcode.com/problems/subsets/,Generate](https://leetcode.com/problems/subsets/,Generate) Power Set using bitmask
+FALSE,Bit Manipulation,Find the Difference,Easy,Basic,NeetCode,[https://leetcode.com/problems/find-the-difference/,Same](https://leetcode.com/problems/find-the-difference/,Same) logic as Single Number (XOR strings)
+FALSE,Bit Manipulation,Reverse Integer,Medium,Core,NeetCode,[https://leetcode.com/problems/reverse-integer/,Handle](https://leetcode.com/problems/reverse-integer/,Handle) overflow checks carefully

@@ -1,0 +1,7 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Recursion,Factorial (Implement),Easy,Basic,College,https://leetcode.com/problems/climbing-stairs/,Base case practice (n * fact(n-1))
+FALSE,Recursion,Fibonacci Number,Easy,Basic,College,https://leetcode.com/problems/fibonacci-number/,Perfect for drawing Recursion Trees
+FALSE,Recursion,Power of Two (Recursive),Easy,Basic,College,https://leetcode.com/problems/power-of-two/,Concept: n/2 recursion step
+FALSE,Recursion,Reverse String (Recursive),Easy,Basic,College,https://leetcode.com/problems/reverse-string/,Swap ends and recurse
+FALSE,Recursion,Pow(x n),Medium,Core,NeetCode + Striver,https://leetcode.com/problems/powx-n/,Binary Exponentiation (Recursive)
+FALSE,Recursion,Permutation Sequence (K-th),Hard,Advanced,Striver,https://leetcode.com/problems/permutation-sequence/,Mathematical Recursion

@@ -1,0 +1,20 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Hashing,Design HashMap (CRUD + Collision),Easy,Basic,College,https://leetcode.com/problems/design-hashmap/,Practice Chaining/LinkedList for collisions
+FALSE,Hashing,Design HashSet,Easy,Basic,College,https://leetcode.com/problems/design-hashset/,Practice boolean mapping
+FALSE,Hashing,Ransom Note,Easy,Basic,NeetCode + Striver,https://leetcode.com/problems/ransom-note/,Basic Frequency Map usage
+FALSE,Hashing,Word Pattern,Easy,Basic,NeetCode,https://leetcode.com/problems/word-pattern/,Bi-directional HashMap (Bijection)
+FALSE,Hashing,Verifying an Alien Dictionary,Easy,Basic,NeetCode,https://leetcode.com/problems/verifying-an-alien-dictionary/,Custom order mapping
+FALSE,Hashing,Intersection of Two Arrays II,Easy,Basic,NeetCode,https://leetcode.com/problems/intersection-of-two-arrays-ii/,Handle duplicates with counting
+FALSE,Hashing,Find Common Characters,Easy,Basic,NeetCode,https://leetcode.com/problems/find-common-characters/,Intersecting multiple frequency maps
+FALSE,Hashing,Check if Array Pairs are Divisible by k,Medium,Core,NeetCode,https://leetcode.com/problems/check-if-array-pairs-are-divisible-by-k/,Remainder Frequency Map
+FALSE,Hashing,Contiguous Array,Medium,Core,NeetCode,https://leetcode.com/problems/contiguous-array/,Prefix Hash with 0=-1 logic
+FALSE,Hashing,Continuous Subarray Sum,Medium,Core,NeetCode,https://leetcode.com/problems/continuous-subarray-sum/,Prefix Hash + Modulo math
+FALSE,Hashing,Insert Delete GetRandom O(1),Medium,Core,NeetCode + Striver,https://leetcode.com/problems/insert-delete-getrandom-o1/,HashMap + Array swap logic
+FALSE,Hashing,Hand of Straights,Medium,Core,NeetCode,https://leetcode.com/problems/hand-of-straights/,TreeMap or Sorted Frequency
+FALSE,Hashing,Brick Wall,Medium,Core,NeetCode,https://leetcode.com/problems/brick-wall/,Gap frequency counting
+FALSE,Hashing,Repeated DNA Sequences,Medium,Core,NeetCode,https://leetcode.com/problems/repeated-dna-sequences/,Rolling Hash / Fixed Window
+FALSE,Hashing,Design Underground System,Medium,Core,NeetCode,https://leetcode.com/problems/design-underground-system/,Two HashMaps for time tracking
+FALSE,Hashing,Design Twitter,Medium,Advanced,NeetCode,https://leetcode.com/problems/design-twitter/,HashMap + Heap (Feed generation)
+FALSE,Hashing,Find All Numbers Disappeared in an Array,Easy,Core,NeetCode,https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/,Cyclic Sort / Index Hashing
+FALSE,Hashing,First Missing Positive,Hard,Advanced,NeetCode,https://leetcode.com/problems/first-missing-positive/,Cyclic Sort / Index Hashing
+FALSE,Hashing,Naming a Company,Hard,Advanced,NeetCode,https://leetcode.com/problems/naming-a-company/,Grouping by first char + Set Intersection

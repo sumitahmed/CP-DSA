@@ -1,0 +1,9 @@
+Done,Topic,Question Name,Difficulty,Level,Source,LeetCode Link,Notes
+FALSE,Trie,Implement Trie (Prefix Tree),Medium,Basic,NeetCode + Striver,https://leetcode.com/problems/implement-trie-prefix-tree/,Build Node struct with children[26]
+FALSE,Trie,Design Add and Search Words Data Structure,Medium,Core,NeetCode,https://leetcode.com/problems/design-add-and-search-words-data-structure/,Handle '.' wildcard using recursion
+FALSE,Trie,Word Search II,Hard,Advanced,NeetCode,https://leetcode.com/problems/word-search-ii/,Backtracking + Trie optimization
+FALSE,Trie,Longest Word in Dictionary,Medium,Core,Striver,https://leetcode.com/problems/longest-word-in-dictionary/,Check if all prefixes exist
+FALSE,Trie,Replace Words,Medium,Core,NeetCode,https://leetcode.com/problems/replace-words/,Find shortest prefix root
+FALSE,Trie,Maximum XOR of Two Numbers in an Array,Medium,Advanced,Striver,https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array/,Bitwise Trie (0 and 1 branches)
+FALSE,Trie,Count Distinct Substrings,Medium,Advanced,Striver,https://www.geeksforgeeks.org/count-distinct-substrings-string-using-suffix-trie/,Count nodes in Trie (GFG Link)
+FALSE,Trie,Prefix and Suffix Search,Hard,Advanced,NeetCode,https://leetcode.com/problems/prefix-and-suffix-search/,Pairing Trie or Suffix wrapping
