@@ -4,59 +4,41 @@
 
 import java.util.*;
 
+class Node {
+    int data;
+    Node left, right;
+
+    Node(int data) {
+        this.data = data;
+        left = right = null;
+    }
+}
+
 class A {
-    static class Node {
-        int data;
-        Node left;
-        Node right;
-
-        Node(int data) {
-            this.data = data;
-            this.left = null;
-            this.right = null;
-        }
-    }
-
-    static Node insert(Node root, int data) {
-        if (root == null) {
-            return new Node(data);
-        }
-
-        if (data < root.data) {
-            root.left = insert(root.left, data);
-        } else if (data > root.data) {
-            root.right = insert(root.right, data);
-        }
-        return root;
-    }
-
-    static int countNodes(Node root) {
+    static int height(Node root) {
         if (root == null) {
             return 0;
         }
-        return 1 + countNodes(root.left) + countNodes(root.right);
+        return Math.max(height(root.left), height(root.right)) + 1;
     }
 
-    static int height(Node root) {
+    static int countNode(Node root) {
         if (root == null) {
-            return 0; // height in terms of number of nodes
+            return 0;
         }
-        return 1 + Math.max(height(root.left), height(root.right));
+        return countNode(root.left) + countNode(root.right) + 1;
     }
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        Node root = null;
+        Node root = new Node(5);
+        root.left = new Node(3);
+        root.right = new Node(10);
+        root.left.left = new Node(1);
+        root.right.left = new Node(7);
 
-        int value1 = sc.nextInt();
-        int value2 = sc.nextInt();
-
-        root = insert(root, value1);
-        root = insert(root, value2);
-
-        System.out.println("Total number of nodes: " + countNodes(root));
         System.out.println("Height of the tree: " + height(root));
-
+        System.out.println("Total number of nodes: " + countNode(root));
         sc.close();
     }
 }
